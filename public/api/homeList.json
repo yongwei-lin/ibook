@@ -1,0 +1,24 @@
+{
+	"success": true,
+	"data": [{
+			"id": 5,
+			"title": "Indonesia's new leader Prabowo heads to China as five-nation tour begins",
+			"desc": "JAKARTA: Indonesia's new president headed to China for a state visit on Friday (Nov 8), starting a five-nation tour that could include a meeting with US president-elect Donald Trump ...",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--ewlaTaH9--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/11/08/000_36lv24v.jpg?itok=Dis21Ew5"
+		}, {
+			"id": 6,
+			"title": "No winners in trade wars, says Chinese envoy, as US confrontation looms",
+			"desc": "BEIJING: There are no winners in tariff or trade wars, nor in wars over science and technology or industry, said China's top envoy to the United States, ...",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--D7D_uLct--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t104233z_1_lynxnpek3k02z_rtroptp_3_china-usa-diplomacy.jpg?itok=WMa9yosm"
+		}, {
+			"id": 7,
+			"title": "China unveils sweeping local govt debt swap to lift ailing economy",
+			"desc": "EIJING: China on Friday (Nov 8) unveiled some of its most ambitious plans in years to lift local government debt, following a meeting of...",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--BQueaOg4--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-11-01t133427z_1_lynxmpeka01bj_rtroptp_3_china-economy.jpg?itok=ZWofUQZp"
+		}, {
+			"id": 8,
+			"title": "South Korea sees increased attacks by pro-Russia hacking groups",
+			"desc": "SEOUL: Cyber attacks by pro-Russian hacking groups against South Korea have increased following North Korea's troop dispatch for Russia's war in Ukraine, Seoul's presidential office said on Friday (Nov 8)....",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--_44tZd7L--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2024/11/08/istock-1327818236.jpg?itok=r9j6LjLE"
+		}]
+}

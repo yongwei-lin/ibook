@@ -1,0 +1,42 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "Top Stories",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--ZIap_4zX--/c_crop,h_900,w_1600,x_0,y_45/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_338,w_600/v1/mediacorp/cna/image/2024/11/10/WAL_7013.JPG?itok=9gyh04uO"
+		}, {
+			"id": 2,
+			"title": "Lastest News",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--ZIap_4zX--/c_crop,h_900,w_1600,x_0,y_45/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_338,w_600/v1/mediacorp/cna/image/2024/11/10/WAL_7013.JPG?itok=9gyh04uO"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "Attacker in St Joseph's Church priest stabbing identified",
+			"desc": "SINGAPORE: The 37-year-old assailant who stabbed a priest with a foldable knife at St Joseph’s Church in Upper Bukit Timah on Saturday...",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--QP4Cvcws--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/11/09/JEM_0194.jpg?itok=vKiLRKiB"
+		}, {
+			"id": 2,
+			"title": "South Korea state-run think tank sees need to loosen monetary policy",
+			"desc": "SEOUL : A South Korean state-run think tank said on Monday that monetary policy needed to be loosened in accordance with the slowing trend in inflation...",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--SAvIMp7y--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-11-11t030551z_1_lynxmpekaa025_rtroptp_3_southkorea-economy-rates.jpg?itok=JL4WIGCH"
+		}, {
+			"id": 3,
+			"title": "Commentary: Trump’s biggest impact in East Asia will be in Korea",
+			"desc": "BUSAN: Former American president Donald Trump has won the presidency again. ...",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--1AHNF2XP--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/us_election_2024_global_reaction_south_korea_73745.jpg?itok=5ECQl02Z"
+		}, {
+			"id": 4,
+			"title": "China summons Philippine ambassador over new maritime laws",
+			"desc": "BEIJING: China summoned the Philippines' ambassador on Friday (Nov 8) to express its objection to two new laws in the Southeast Asian nation asserting maritime rights and...",
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--2isZgnAz--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/11/08/2024-11-08t091610z_3_lynxmpeka703t_rtroptp_4_southchinasea-philippines.jpg?itok=D52d9Ey3"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--FDF0In7L--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/china_daily_life_37930.jpg?itok=w9FzTeMO"
+		}, {
+			"id": 2,
+			"imgUrl": "https://onecms-res.cloudinary.com/image/upload/s--1ZDaWAH0--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/11/09/000_36lr3wb.jpg?itok=AwpEBp2i"
+		}]
+	}
+}
